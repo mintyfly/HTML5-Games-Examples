@@ -1,4 +1,4 @@
-# HTML5 Games Collection
+# HTML5 Games Collection     H5游戏示例
 
 During my tutorials and book writings, I created different HTML5 games examples. And I would like to put all my games examples here.
 
